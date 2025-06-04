@@ -21,4 +21,4 @@
 ![image alt](https://github.com/vinsyenloh/Data-Structure-cpp/blob/317e6b9e06e19ccf415aeb637515f4e9087fea33/Student%20List.jpg)  
 
 # Exam 结构体变量的内部内容  
-![image alt]()
+![image alt](https://github.com/vinsyenloh/Data-Structure-cpp/blob/e04f2d65574a2f3dcc502fd4accfc132a14e41c5/Exam%20Struct.jpg)
