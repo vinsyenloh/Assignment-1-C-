@@ -17,4 +17,8 @@
 # 项目目的
 通过嵌套链表的方式管理复杂的学生信息，实现信息的组织、添加、查询、删除等基本操作，锻炼链表操作能力及数据结构设计能力。
 
-# 学生链表中的 Student 节点
+# 学生链表中的 Student 节点  
+![image alt](https://github.com/vinsyenloh/Data-Structure-cpp/blob/317e6b9e06e19ccf415aeb637515f4e9087fea33/Student%20List.jpg)  
+
+# Exam 结构体变量的内部内容  
+![image alt]()
